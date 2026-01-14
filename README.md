@@ -1,4 +1,4 @@
-# 📿 Digital Chanting App (Mantra Counter)
+# 📿 Digital Chantting App (Mantra Counter)
 
 A feature-rich spiritual companion designed to help you focus on your Japa practice. Built entirely on a smartphone! 📱✨
 
