@@ -13,12 +13,12 @@ A feature-rich spiritual companion designed to help you focus on your Japa pract
 - **Dynamic Backgrounds:** Change the look of the app! Choose from **10 beautiful Lord Krishna wallpapers** to set the mood.
 
 ### 📊 Progress Tracking
-- **7-Day History:** The app automatically saves your daily count, helping you track your spiritual consistency over the last week.
+- **30-Day History:** The app automatically saves your daily count, helping you track your spiritual consistency over the month.
 
 ## 🛠️ Tech Stack
 - **Built on:** Android Phone 📱
 - **IDE Used:** Sketchware (Mobile Development)
-- **Database:** Local Storage (for keeping 7-day records)
+- **Database:** Local Storage (for keeping 30-day records)
 
 ## 📥 Download
 Download the `.apk` file from this repository and install it on your Android device to start your journey.
