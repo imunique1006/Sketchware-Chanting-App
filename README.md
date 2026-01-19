@@ -46,11 +46,10 @@ Ye project **Hybrid Technology** pe bana hai:
 ---
 
 ## 📸 Screenshots
-*(Yahan apne app ke screenshots laga dena)*
 
 | Home Screen | Stats Panel | Focus Mode |
 |:---:|:---:|:---:|
-| ![Home](https://via.placeholder.com/150) | ![Stats](https://via.placeholder.com/150) | ![Focus](https://via.placeholder.com/150) |
+| ![Home](https://github.com/imunique1006/Sketchware-Chanting-App/blob/b1561a87ff0b35fa452c55861a36c382b37e09b5/Screenshot_20260119-212816.jpg) | ![Stats](https://github.com/imunique1006/Sketchware-Chanting-App/blob/b1561a87ff0b35fa452c55861a36c382b37e09b5/Screenshot_20260119-212819.jpg) | ![Focus](https://github.com/imunique1006/Sketchware-Chanting-App/blob/b1561a87ff0b35fa452c55861a36c382b37e09b5/Screenshot_20260119-212826.jpg) |
 
 ---
 
